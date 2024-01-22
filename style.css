@@ -1,0 +1,8 @@
+table{
+    border-collapse: collapse;
+}
+
+th{
+    color: rgb(212, 0, 255);
+    background-color: aqua;
+}
